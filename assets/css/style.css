@@ -1,0 +1,11 @@
+.pad {
+    padding: 30px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.mainsection {
+    padding: 400px;
+    background-color: gray;
+}
